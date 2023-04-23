@@ -39,7 +39,7 @@ const Resume = () => {
         </Row>
 
         <Row className="resume">
-          <Document file="https://drive.google.com/uc?export=download&id=1oHeZ_gnpC405VNa9EsB0xyVUGJad6YTP" className="d-flex justify-content-center">
+          <Document file="https://drive.google.com/uc?export=download&id=1oeeFBiAzaZRtlxcuSFbL7RlcROTdBkyQ" className="d-flex justify-content-center">
             <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} />
           </Document>
         </Row>
